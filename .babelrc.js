@@ -21,7 +21,7 @@ module.exports = {
           'transform-rename-import',
           {
             original: '^styled-components$',
-            replacement: 'react-emotion'
+            replacement: '@emotion/styled'
           }
         ],
         'emotion'
